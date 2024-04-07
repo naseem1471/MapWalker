@@ -5,6 +5,7 @@ import {initializeApp} from "https://www.gstatic.com/firebasejs/10.10.0/firebase
 const firebaseConfig = {
     apiKey: "AIzaSyAKYnzW69RifzLnQFyRpTdmmXHtlLiBddo",
     authDomain: "gamedev-6171d.firebaseapp.com",
+    databaseURL: "https://gamedev-6171d-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "gamedev-6171d",
     storageBucket: "gamedev-6171d.appspot.com",
     messagingSenderId: "169013511740",
